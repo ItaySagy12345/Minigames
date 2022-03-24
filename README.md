@@ -1,18 +1,17 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The program can be run in any IDE console that supports Java.
+
+Please consider the following VS Code Java extensions: 
+
+(1) Language Support for Java™ by Red Hat
+(2) Debugger for Java
+(3) Test Runner for Java
+(4) Maven for Java
+(5) Project Manager for Java
+(6) Visual Studio IntelliCode
+
+Follow the in-game prompts and enjoy! 
 
 ## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Separate folders for each mini game (Checkers & Tic-Tac-Toe)
